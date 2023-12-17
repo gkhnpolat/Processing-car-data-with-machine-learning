@@ -1,0 +1,702 @@
+﻿fiyat;marka;seri;model;yil;km;vites;yakit;kasa;renk;motorHacmi;motorGucu;cekis;yakitTuketimi;yakitDeposu;boyaDegisen;takas;kimden
+875.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2015;275.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;4 boyalı;Takasa Uygun;Galeriden
+996.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2015;115.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1395 cc;125 hp;Önden Çekiş;4,9 lt;50 lt;1 değişen;Takasa Uygun Değil;Galeriden
+915.900 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2015;210.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+655.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2008;160.000 km;Otomatik;Benzin;Hatchback/5;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;1 değişen, 2 boyalı;Takasa Uygun;Galeriden
+1.050.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2016;203.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+2.145.000 TL;Audi;A3;A3 Cabrio 35 TFSI Design;2020;13.476 km;Yarı Otomatik;Benzin;-;Gri;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.059.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2017;92.000 km;Yarı Otomatik;Benzin;Hatchback/5;Siyah;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+805.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2013;270.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;1 değişen, 6 boyalı;Takasa Uygun;Sahibinden
+920.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;144.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;1 değişen, 1 boyalı;-;Sahibinden
+550.000 TL;Audi;A3;A3 Sportback 1.6 FSI;2006;235.000 km;Düz;LPG & Benzin;Hatchback/5;Gri;1595 cc;115 hp;Önden Çekiş;6,5 lt;55 lt;3 değişen, 4 boyalı;-;Sahibinden
+935.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2014;176.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;-;Sahibinden
+900.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2012;194.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;Tamamı orjinal;Takasa Uygun Değil;Sahibinden
+1.060.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2014;122.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Sahibinden
+1.155.000 TL;Audi;A3;A3 Sedan 1.0 TFSI Dynamic;2016;125.500 km;Yarı Otomatik;Benzin;Sedan;Siyah;999 cc;116 hp;Önden Çekiş;4,4 lt;50 lt;Tamamı orjinal;-;Sahibinden
+1.065.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;16.200 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;3 değişen, 1 boyalı;Takasa Uygun Değil;Galeriden
+594.900 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2009;208.000 km;Yarı Otomatik;Benzin;Hatchback/3;Siyah;1390 cc;125 hp;Önden Çekiş;5,7 lt;55 lt;6 boyalı;Takasa Uygun;Galeriden
+960.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2013;150.000 km;Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+1.025.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2013;115.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1395 cc;140 hp;Önden Çekiş;4,8 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Sahibinden
+895.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2015;197.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+1.290.000 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;99.000 km;Yarı Otomatik;Benzin;Sedan;Beyaz;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;Tamamı orjinal;-;Sahibinden
+1.015.000 TL;Audi;A3;A3 Sedan 1.0 TFSI Dynamic;2017;105.000 km;Yarı Otomatik;Benzin;Sedan;Siyah;999 cc;116 hp;Önden Çekiş;4,4 lt;50 lt;Tamamı orjinal;-;Sahibinden
+1.355.000 TL;Audi;A3;A3 Sportback 1.6 TDI Design Line;2016;80.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Sahibinden
+1.399.000 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;27.000 km;Yarı Otomatik;Benzin;Sedan;Beyaz;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+1.198.950 TL;Audi;A3;A3 Sedan 1.4 TFSI Ambition;2016;69.800 km;Yarı Otomatik;Benzin;Sedan;Beyaz;1395 cc;150 hp;Önden Çekiş;4,7 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+859.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2014;129.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;2 değişen, 1 boyalı;Takasa Uygun;Galeriden
+775.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2011;155.000 km;Yarı Otomatik;Benzin;Hatchback/3;Siyah;1390 cc;125 hp;Önden Çekiş;5,6 lt;55 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+1.049.900 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;98.000 km;Yarı Otomatik;Dizel;Sedan;Kırmızı;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;7 boyalı;Takasa Uygun;Galeriden
+925.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2015;221.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;5 boyalı;Takasa Uygun Değil;Galeriden
+970.000 TL;Audi;A3;A3 Sportback 1.6 TDI Dynamic;2016;124.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;2 boyalı;Takasa Uygun Değil;Galeriden
+975.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;218.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Galeriden
+345.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;1999;276.500 km;Otomatik;LPG & Benzin;Hatchback/5;Gri (Gümüş);1595 cc;101 hp;Önden Çekiş;8,6 lt;55 lt;Belirtilmemiş;Takasa Uygun;Sahibinden
+475.000 TL;Audi;A3;A3 Sportback 1.6 Standart;2007;270.000 km;Otomatik;Benzin;Hatchback/3;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;2 değişen, 11 boyalı;-;Sahibinden
+1.435.000 TL;Audi;A3;A3 Sportback 35 TFSI Dynamic;2020;32.000 km;Yarı Otomatik;Benzin;Hatchback/5;Gri;1498 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;1 boyalı;Takasa Uygun;Galeriden
+965.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2016;128.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;-;Sahibinden
+955.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;107.000 km;Otomatik;Dizel;Sedan;Siyah;-;-;-;-;-;Tamamı orjinal;-;Sahibinden
+1.100.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2013;176.000 km;Otomatik;Dizel;Sedan;Gri (metalik);1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Galeriden
+850.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2013;131.494 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;2 boyalı;Takasa Uygun;Galeriden
+980.900 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2014;216.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+999.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2015;115.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+580.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2008;252.000 km;Düz;Benzin;Hatchback/3;Füme;1390 cc;125 hp;Önden Çekiş;5,9 lt;55 lt;Takasa Uygun;Takasa Uygun;Sahibinden
+975.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2013;218.000 km;Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Galeriden
+595.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Attraction;2010;320.000 km;Düz;LPG & Benzin;Hatchback/5;Beyaz;1595 cc;102 hp;Önden Çekiş;6,9 lt;55 lt;1 değişen, 6 boyalı;Takasa Uygun;Sahibinden
+935.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2014;125.000 km;Yarı Otomatik;Dizel;Hatchback/3;Beyaz;1598 cc;105 hp;Önden Çekiş;3,8 lt;50 lt;1 değişen, 2 boyalı;-;Sahibinden
+1.215.000 TL;Audi;A3;A3 Sportback 35 TFSI Dynamic;2020;85.200 km;Yarı Otomatik;Benzin;Hatchback/5;Gri (titanyum);1498 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Galeriden
+745.000 TL;Audi;A3;A3 Sportback 1.2 TFSI Attraction;2012;190.000 km;Düz;Benzin;Hatchback/5;Beyaz;1197 cc;105 hp;Önden Çekiş;5,5 lt;55 lt;1 değişen, 1 boyalı;Takasa Uygun;Galeriden
+925.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2016;183.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+1.243.000 TL;Audi;A3;A3 Sedan 1.6 TDI Sport Line;2016;119.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+759.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;175.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;2 değişen, 8 boyalı;Takasa Uygun;Galeriden
+1.250.000 TL;Audi;A3;A3 Cabrio 1.4 TFSI Ambition;2015;136.000 km;Yarı Otomatik;Benzin;Cabrio;Beyaz;1395 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.790.000 TL;Audi;A3;A3 Cabrio 1.5 TFSI;2018;53.000 km;Yarı Otomatik;Benzin;Cabrio;Mavi;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.060.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2017;220.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+939.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2014;88.550 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;2 boyalı;Takasa Uygun;Galeriden
+995.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2013;194.978 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;3 boyalı;Takasa Uygun;Galeriden
+1.185.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2018;117.610 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+758.500 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2012;240.000 km;Otomatik;Benzin;Hatchback/5;Beyaz;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+1.075.000 TL;Audi;A3;A3 Sportback 1.6 TDI Sport Line;2016;130.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;1 değişen, 1 boyalı;Takasa Uygun Değil;Sahibinden
+750.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambiente;2013;133.000 km;Yarı Otomatik;Benzin;Hatchback/5;Gri;1395 cc;122 hp;Önden Çekiş;5 lt;50 lt;Tamamı orjinal;-;Sahibinden
+357.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2000;379.000 km;Düz;LPG & Benzin;Hatchback/3;Lacivert;1595 cc;101 hp;Önden Çekiş;7,6 lt;55 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+420.000 TL;Audi;A3;A3 Sportback 1.6 FSI;2006;278.000 km;Düz;Benzin;Hatchback/5;Kırmızı;1595 cc;115 hp;Önden Çekiş;6,5 lt;55 lt;4 boyalı;Takasa Uygun;Sahibinden
+1.195.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2014;106.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Sahibinden
+1.095.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;93.646 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Galeriden
+423.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2002;271.000 km;Düz;LPG & Benzin;Hatchback/5;Mavi (metalik);1595 cc;102 hp;Önden Çekiş;6,8 lt;55 lt;Belirtilmemiş;-;Sahibinden
+990.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;110.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;4 boyalı;Takasa Uygun Değil;Sahibinden
+950.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2016;202.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;7 boyalı;-;Sahibinden
+996.000 TL;Audi;A3;A3 Sedan 1.6 TDI S Line;2015;148.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+895.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2013;232.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;3 boyalı;Takasa Uygun;Galeriden
+1.285.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2015;40.000 km;Yarı Otomatik;Dizel;Hatchback/5;Kırmızı;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.110.000 TL;Audi;A3;A3 Sedan 1.6 TDI Sport Line;2017;181.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+875.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;183.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+850.750 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2013;206.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.055.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2014;169.000 km;Otomatik;Dizel;Hatchback/5;Beyaz;1401 - 1600 cm3;101 - 125 HP;Önden Çekiş;Belirtilmemiş;-;-;Takasa Uygun;Galeriden
+990.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;105.000 km;Yarı Otomatik;Dizel;Sedan;Füme;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;1 değişen, 2 boyalı;Takasa Uygun Değil;Galeriden
+1.092.000 TL;Audi;A3;A3 Sportback 1.6 TDI Design Line;2017;68.489 km;Yarı Otomatik;Dizel;Hatchback/5;Mavi;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;5 boyalı;Takasa Uygun Değil;Yetkili Bayiden
+570.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Ambiente;2008;217.000 km;Düz;LPG & Benzin;Hatchback/5;Siyah;1595 cc;102 hp;Önden Çekiş;6,9 lt;55 lt;1 boyalı;-;Sahibinden
+695.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2009;161.000 km;Yarı Otomatik;Benzin;Hatchback/3;Beyaz;1390 cc;125 hp;Önden Çekiş;5,6 lt;55 lt;1 değişen, 3 boyalı;Takasa Uygun;Sahibinden
+800.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2012;209.500 km;Yarı Otomatik;Benzin;Hatchback/5;Siyah;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;2 değişen, 6 boyalı;Takasa Uygun;Sahibinden
+450.000 TL;Audi;A3;A3 Sportback 1.8 T Attraction;2001;240.000 km;Otomatik;LPG & Benzin;Hatchback/3;Mavi;1781 cc;150 hp;Önden Çekiş;8,2 lt;55 lt;Tamamı orjinal;Takasa Uygun Değil;Sahibinden
+1.511.000 TL;Audi;A3;A3 Sportback 35 TFSI Advanced;2023;6.150 km;Yarı Otomatik;Hibrit;Hatchback/5;Beyaz;1498 cc;150 hp;Önden Çekiş;5 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+890.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2014;150.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;2 değişen, 2 boyalı;Takasa Uygun Değil;Sahibinden
+1.475.000 TL;Audi;A3;A3 Sportback 35 TFSI Dynamic;2020;29.000 km;Yarı Otomatik;Benzin;Hatchback/5;Füme;1498 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+910.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2015;280.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;4 boyalı;Takasa Uygun;Sahibinden
+790.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambiente;2010;260.000 km;Yarı Otomatik;LPG & Benzin;Hatchback/5;Gri;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+1.380.000 TL;Audi;A3;A3 Sportback 35 TFSI Dynamic;2020;63.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1498 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.350.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2016;230.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+1.275.000 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;85.000 km;Yarı Otomatik;Benzin;Sedan;Mavi;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;1 değişen, 3 boyalı;Takasa Uygun;Galeriden
+485.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2004;301.000 km;Otomatik;LPG & Benzin;Hatchback/3;Gri (Gümüş);1595 cc;101 hp;Önden Çekiş;8,6 lt;55 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+590.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Standart;2006;228.000 km;Otomatik;LPG & Benzin;Hatchback/5;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;12 boyalı;Takasa Uygun;Galeriden
+950.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2013;250.000 km;Yarı Otomatik;Dizel;Sedan;Gri (metalik);1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;4 boyalı;Takasa Uygun;Galeriden
+1.458.000 TL;Audi;A3;A3 Sedan 35 TFSI Advanced;2021;69.000 km;Yarı Otomatik;Benzin;Sedan;Beyaz;1498 cc;150 hp;-;Belirtilmemiş;-;-;Takasa Uygun;Galeriden
+1.290.000 TL;Audi;A3;A3 Sedan 35 TFSI Advanced;2022;17.000 km;Yarı Otomatik;Benzin;Sedan;Füme;1498 cc;150 hp;Önden Çekiş;Belirtilmemiş;-;-;Takasa Uygun Değil;Galeriden
+1.225.000 TL;Audi;A3;A3 Sedan 1.6 TDI S Line;2014;105.000 km;Yarı Otomatik;Dizel;Sedan;Füme;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+1.125.000 TL;Audi;A3;A3 Sedan 1.6 TDI S Line;2014;225.000 km;Yarı Otomatik;Dizel;Sedan;Gri (metalik);1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+1.200.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2018;50.600 km;Yarı Otomatik;Benzin;Hatchback/5;Gri;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+695.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2011;125.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+710.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2007;206.000 km;Otomatik;LPG & Benzin;Hatchback/5;Gri;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;Tamamı orjinal;Takasa Uygun;Sahibinden
+1.200.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2015;173.000 km;Yarı Otomatik;Dizel;Sedan;Mor;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;1 boyalı;Takasa Uygun;Galeriden
+650.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2011;282.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;2 değişen, 7 boyalı;Takasa Uygun Değil;Sahibinden
+1.040.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2016;106.600 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;4 boyalı;-;Sahibinden
+510.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2006;240.000 km;Otomatik;LPG & Benzin;Hatchback/3;Gri (Gümüş);1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;Belirtilmemiş;-;Sahibinden
+650.000 TL;Audi;A3;A3 Sportback 1.6 Ambition;2010;320.000 km;Yarı Otomatik;LPG & Benzin;Hatchback/3;Beyaz;1595 cc;102 hp;Önden Çekiş;6,7 lt;55 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.050.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2014;167.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;1 değişen, 1 boyalı;Takasa Uygun Değil;Sahibinden
+970.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2015;129.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+1.035.000 TL;Audi;A3;A3 Sedan 1.5 TFSI Dynamic;2020;84.000 km;Yarı Otomatik;Benzin;Sedan;Gri;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;3 değişen, 1 boyalı;Takasa Uygun Değil;Galeriden
+810.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2013;222.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;7 boyalı;Takasa Uygun Değil;Sahibinden
+970.000 TL;Audi;A3;A3 Sedan 1.4 TFSI Ambition;2013;133.000 km;Yarı Otomatik;Benzin;Sedan;Beyaz;1395 cc;140 hp;Önden Çekiş;4,7 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Sahibinden
+987.000 TL;Audi;A3;A3 Sedan 1.4 TFSI Ambiante;2015;161.000 km;Yarı Otomatik;Benzin;Sedan;Siyah;1395 cc;125 hp;Önden Çekiş;4,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+1.098.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2016;187.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+1.248.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;130.000 km;Yarı Otomatik;Dizel;Sedan;Gri;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.100.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2014;201.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;5 boyalı;Takasa Uygun;Sahibinden
+1.675.000 TL;Audi;A3;A3 Sedan 35 TFSI Sport;2020;37.000 km;Yarı Otomatik;Benzin;Sedan;Siyah;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+820.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2012;162.000 km;Yarı Otomatik;Dizel;Hatchback/3;Beyaz;1598 cc;105 hp;Önden Çekiş;3,8 lt;50 lt;Belirtilmemiş;-;Sahibinden
+1.100.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Design Line;2017;86.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;Tamamı orjinal;Takasa Uygun;Sahibinden
+1.020.900 TL;Audi;A3;A3 Sportback 1.6 TDI Dynamic;2017;109.000 km;Otomatik;Dizel;Hatchback/5;Gri;1401 - 1600 cm3;101 - 125 HP;Önden Çekiş;-;-;4 boyalı;Takasa Uygun;Galeriden
+1.180.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2016;118.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;-;Sahibinden
+1.050.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2015;119.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Sahibinden
+859.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2013;218.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Sahibinden
+555.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2010;264.000 km;Yarı Otomatik;Benzin;Hatchback/3;Siyah;1595 cc;102 hp;Önden Çekiş;6,7 lt;55 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.050.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2016;178.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;2 değişen, 5 boyalı;Takasa Uygun;Galeriden
+620.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2007;330.000 km;Otomatik;LPG & Benzin;Hatchback/5;Siyah;1595 cc;101 hp;Önden Çekiş;8,6 lt;55 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.200.000 TL;Audi;A3;A3 Sedan 1.6 TDI Sport Line;2016;180.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.000.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2014;149.500 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+534.900 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2009;258.000 km;Düz;Benzin;Hatchback/5;Beyaz;1390 cc;125 hp;Önden Çekiş;6 lt;55 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+945.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2014;171.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+954.850 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2013;183.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.159.900 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;119.000 km;Yarı Otomatik;Benzin;Sedan;Beyaz;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+894.000 TL;Audi;A3;A3 Sedan 1.4 TFSI Attraction;2013;231.000 km;Yarı Otomatik;Benzin;Sedan;Siyah;1395 cc;140 hp;Önden Çekiş;4,7 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+985.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2017;205.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;1 değişen, 1 boyalı;Takasa Uygun;Sahibinden
+1.090.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2016;127.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;3 boyalı;-;Sahibinden
+900.000 TL;Audi;A3;A3 Sportback 1.6 TDI Sport Line;2013;240.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;1 değişen, 1 boyalı;-;Sahibinden
+1.150.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;179.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;2 boyalı;Takasa Uygun Değil;Sahibinden
+835.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2013;283.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+830.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2014;148.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;5 değişen, 4 boyalı;Takasa Uygun;Sahibinden
+717.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;188.000 km;Otomatik;Dizel;Hatchback/5;Gri;1401 - 1600 cm3;101 - 125 HP;Önden Çekiş;Belirtilmemiş;-;-;Takasa Uygun Değil;Sahibinden
+1.680.000 TL;Audi;A3;A3 Sedan 35 TFSI Sport;2021;37.000 km;Yarı Otomatik;Benzin;Sedan;Lacivert;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.200.000 TL;Audi;A3;A3 Sedan 1.6 TDI S Line;2015;355.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Sahibinden
+820.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2010;185.000 km;Otomatik;Benzin;Hatchback/3;Beyaz;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.090.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;187.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun;Sahibinden
+1.000.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;118.500 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;3 boyalı;Takasa Uygun;Sahibinden
+1.950.000 TL;Audi;A3;A3 Sedan 35 TFSI Sport;2023;12.000 km;Otomatik;Benzin;Sedan;Siyah;-;-;-;-;-;Tamamı orjinal;-;Sahibinden
+933.750 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2015;199.810 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Yetkili Bayiden
+930.000 TL;Audi;A3;A3 Sportback 1.6 TDI Sport Line;2014;260.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;2 boyalı;-;Sahibinden
+1.110.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2016;89.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Sahibinden
+1.150.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Design Line;2017;155.000 km;Yarı Otomatik;Benzin;Hatchback/5;Füme;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Sahibinden
+1.125.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;176.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;116 hp;Önden Çekiş;4 lt;50 lt;Takasa Uygun;Takasa Uygun;Galeriden
+1.200.000 TL;Audi;A3;A3 Sportback 30 TDI Dynamic;2019;110.000 km;Yarı Otomatik;Dizel;Hatchback/5;Füme;1598 cc;116 hp;Önden Çekiş;4 lt;50 lt;2 boyalı;Takasa Uygun;Galeriden
+1.150.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2015;151.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.150.000 TL;Audi;A3;A3 Sportback 1.6 TDI Design Line;2016;116.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+397.750 TL;Audi;A3;A3 Sportback 1.6 Standart;2005;217.000 km;Düz;Benzin;Hatchback/3;Mavi;1595 cc;102 hp;Önden Çekiş;7 lt;55 lt;4 değişen, 4 boyalı;Takasa Uygun;Galeriden
+1.045.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2015;106.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+749.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambiente;2011;200.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.235.000 TL;Audi;A3;A3 Sedan 1.0 TFSI Dynamic;2017;94.100 km;Yarı Otomatik;Benzin;Sedan;Siyah;999 cc;116 hp;Önden Çekiş;4,4 lt;50 lt;1 değişen;Takasa Uygun Değil;Galeriden
+1.200.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2016;100.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Sahibinden
+895.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2014;169.000 km;Otomatik;Dizel;Hatchback/5;Beyaz;1401 - 1600 cm3;101 - 125 HP;Önden Çekiş;Belirtilmemiş;-;-;Takasa Uygun;Galeriden
+1.299.750 TL;Audi;A3;A3 Sportback 35 TFSI Dynamic;2020;28.000 km;Yarı Otomatik;Benzin;Hatchback/5;Füme;1498 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;Tamamı orjinal;-;Sahibinden
+685.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2009;185.000 km;Düz;LPG & Benzin;Hatchback/5;Gri;-;-;-;-;-;2 boyalı;-;Sahibinden
+1.180.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2016;132.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Belirtilmemiş;Takasa Uygun;Sahibinden
+1.075.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2017;146.750 km;Yarı Otomatik;Dizel;Sedan;Mavi;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;3 boyalı;-;Sahibinden
+860.000 TL;Audi;A3;A3 Sportback 1.2 TFSI Attraction;2015;183.000 km;Düz;Benzin;Hatchback/5;Beyaz;1197 cc;110 hp;Önden Çekiş;5 lt;50 lt;Belirtilmemiş;-;Sahibinden
+1.020.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2015;233.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;2 boyalı;-;Sahibinden
+350.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2000;230.000 km;Otomatik;LPG & Benzin;Hatchback/3;Siyah;1595 cc;102 hp;Önden Çekiş;8 lt;55 lt;5 boyalı;-;Sahibinden
+1.150.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;62.500 km;Yarı Otomatik;Dizel;Sedan;Gri;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Tamamı orjinal;-;Sahibinden
+833.750 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2010;145.000 km;Düz;Benzin;Hatchback/3;Gri (Gümüş);1390 cc;125 hp;Önden Çekiş;5,9 lt;55 lt;Belirtilmemiş;-;Sahibinden
+649.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Ambition;2007;242.000 km;Otomatik;LPG & Benzin;Hatchback/5;Füme;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+1.100.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2018;71.000 km;Yarı Otomatik;Benzin;Hatchback/5;Gri;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;2 boyalı;Takasa Uygun Değil;Sahibinden
+1.177.500 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2016;129.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+1.100.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2014;130.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+440.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2006;360.000 km;Düz;Benzin;Hatchback/3;Siyah;1595 cc;101 hp;Önden Çekiş;7,6 lt;55 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+1.244.950 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;46.600 km;Yarı Otomatik;Benzin;Sedan;Füme;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+510.000 TL;Audi;A3;A3 Sportback 1.6 FSI;2006;298.000 km;Düz;LPG & Benzin;Hatchback/5;Siyah;1595 cc;115 hp;Önden Çekiş;6,5 lt;55 lt;2 değişen, 5 boyalı;Takasa Uygun;Sahibinden
+600.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2010;203.500 km;Yarı Otomatik;Benzin;Hatchback/5;Füme;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;5 değişen, 2 boyalı;Takasa Uygun Değil;Sahibinden
+700.000 TL;Audi;A3;A3 Sportback 1.4 TFSI;2011;146.700 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1201 - 1400 cm3;101 - 125 HP;Önden Çekiş;-;-;1 değişen, 2 boyalı;Takasa Uygun Değil;Sahibinden
+1.080.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2014;150.000 km;Yarı Otomatik;Dizel;Sedan;Kırmızı;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun;Sahibinden
+1.419.000 TL;Audi;A3;A3 Sportback 35 TFSI S-Line;2021;66.000 km;Yarı Otomatik;Hibrit;Hatchback/5;Füme;1498 cc;150 hp;Önden Çekiş;5 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+820.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2013;245.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;-;Sahibinden
+510.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Ambiente;2007;270.000 km;Otomatik;LPG & Benzin;Hatchback/5;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;9 boyalı;Takasa Uygun Değil;Sahibinden
+895.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2014;135.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+750.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;108.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+1.135.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;135.700 km;Yarı Otomatik;Dizel;Sedan;Mavi;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+1.150.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2014;140.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+527.000 TL;Audi;A3;A3 Sportback 1.6 FSI;2006;260.000 km;Düz;Benzin;Hatchback/5;Siyah;1595 cc;115 hp;Önden Çekiş;6,5 lt;55 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.479.500 TL;Audi;A3;A3 Sedan 35 TFSI Advanced;2022;48.500 km;Yarı Otomatik;Benzin;Sedan;Siyah;1498 cc;150 hp;-;Belirtilmemiş;-;-;Takasa Uygun;Galeriden
+1.217.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;129.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+899.500 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;100.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.050.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2014;150.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;-;Sahibinden
+1.082.950 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;131.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;4 boyalı;Takasa Uygun;Galeriden
+895.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2010;98.000 km;Yarı Otomatik;Benzin;Hatchback/5;Siyah;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;Tamamı orjinal;Takasa Uygun Değil;Sahibinden
+425.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2006;220.000 km;Otomatik;Benzin;Hatchback/3;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;2 değişen, 5 boyalı;Takasa Uygun Değil;Sahibinden
+945.750 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2015;167.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;4 boyalı;Takasa Uygun;Galeriden
+709.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2010;163.000 km;Yarı Otomatik;Benzin;Hatchback/3;Beyaz;1390 cc;125 hp;Önden Çekiş;5,6 lt;55 lt;Belirtilmemiş;-;Sahibinden
+1.225.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2016;65.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;Tamamı orjinal;-;Sahibinden
+560.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Ambiente;2007;260.000 km;Otomatik;LPG & Benzin;Hatchback/5;Gri (Gümüş);1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;4 değişen, 8 boyalı;Takasa Uygun;Sahibinden
+680.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Ambition;2009;300.000 km;Düz;LPG & Benzin;-;Hatchback/5;1595 cc;102 hp;Önden Çekiş;7 lt;55 lt;5 boyalı;-;Sahibinden
+649.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambiente;2010;264.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;2 boyalı;Takasa Uygun;Sahibinden
+1.105.000 TL;Audi;A3;A3 Sportback 1.6 TDI Sport Line;2015;189.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;Belirtilmemiş;-;Sahibinden
+1.035.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2016;208.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;4 değişen, 2 boyalı;Takasa Uygun;Galeriden
+1.589.000 TL;Audi;A3;A3 Sedan 35 TFSI Advanced;2022;35.000 km;Yarı Otomatik;Hibrit;Sedan;Beyaz;1498 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.095.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2017;64.000 km;Yarı Otomatik;Benzin;Hatchback/5;Lacivert;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+699.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2011;171.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.490.000 TL;Audi;A3;A3 Sedan 35 TFSI Advanced;2021;26.432 km;Yarı Otomatik;Benzin;Sedan;Gri;1498 cc;150 hp;-;Belirtilmemiş;-;-;Takasa Uygun;Yetkili Bayiden
+1.089.500 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;109.000 km;Yarı Otomatik;Benzin;Sedan;Beyaz;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.190.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2018;120.000 km;Otomatik;Dizel;Sedan;Lacivert;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+575.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Ambiente;2006;235.000 km;Otomatik;LPG & Benzin;Hatchback/5;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;1 değişen, 3 boyalı;Takasa Uygun;Galeriden
+1.145.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;218.800 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;4 boyalı;Takasa Uygun Değil;Galeriden
+995.000 TL;Audi;A3;A3 Sedan 1.6 TDI;2017;197.384 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.230.000 TL;Audi;A3;A3 Sportback 35 TFSI Dynamic;2020;55.000 km;Yarı Otomatik;Benzin;Hatchback/5;Lacivert;1498 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;1 değişen, 1 boyalı;Takasa Uygun;Galeriden
+1.195.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2016;128.000 km;Yarı Otomatik;Dizel;Sedan;Kırmızı;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Sahibinden
+1.260.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;115.800 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;-;Sahibinden
+1.238.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2017;76.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Sahibinden
+520.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2004;180.000 km;Düz;LPG & Benzin;Hatchback/3;Mavi;1595 cc;101 hp;Önden Çekiş;7,6 lt;55 lt;Belirtilmemiş;-;Sahibinden
+1.305.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;52.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;1 boyalı;-;Sahibinden
+1.100.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Sport Line;2018;44.500 km;Yarı Otomatik;Benzin;Hatchback/5;Siyah;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Sahibinden
+898.880 TL;Audi;A3;A3 Sportback 1.6 TDI Sport Line;2013;244.000 km;Yarı Otomatik;Dizel;Hatchback/5;Bej;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;2 değişen, 3 boyalı;Takasa Uygun Değil;Sahibinden
+855.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2013;105.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;-;Sahibinden
+890.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2015;160.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;1 değişen, 1 boyalı;Takasa Uygun;Galeriden
+605.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2006;215.000 km;Otomatik;LPG & Benzin;Hatchback/5;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;2 değişen, 3 boyalı;Takasa Uygun;Galeriden
+1.580.000 TL;Audi;A3;A3 Sedan 1.6 TDI Sport Line;2018;48.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;5 boyalı;Takasa Uygun;Galeriden
+1.314.900 TL;Audi;A3;A3 Sportback 35 TFSI Sport;2020;48.000 km;Yarı Otomatik;Benzin;Hatchback/5;Gri;1498 cc;150 hp;Önden Çekiş;5 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+1.365.000 TL;Audi;A3;A3 Sportback 30 TDI Sport;2019;84.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;116 hp;Önden Çekiş;4 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+1.189.750 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;106.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+638.000 TL;Audi;A3;A3 Sportback 1.4 TFSI;2008;100.000 km;Yarı Otomatik;Benzin;Hatchback/3;Füme;1390 cc;125 hp;Önden Çekiş;6,5 lt;55 lt;1 değişen, 4 boyalı;Takasa Uygun;Galeriden
+1.100.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2015;11.300 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1395 cc;125 hp;Önden Çekiş;4,9 lt;50 lt;4 değişen, 3 boyalı;Takasa Uygun Değil;Sahibinden
+520.000 TL;Audi;A3;A3 Sportback 1.6 Ambition;2006;220.000 km;Otomatik;LPG & Benzin;Hatchback/5;Füme;-;-;-;Belirtilmemiş;-;-;Takasa Uygun Değil;Sahibinden
+949.950 TL;Audi;A3;A3 Sportback 1.6 Attraction;2013;240.000 km;Otomatik;Dizel;Hatchback/3;Beyaz;1598 cc;103 hp;Önden Çekiş;-;-;2 boyalı;Takasa Uygun Değil;Galeriden
+1.490.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2017;57.000 km;Yarı Otomatik;Dizel;Sedan;Füme;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Galeriden
+905.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2013;150.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Sahibinden
+345.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2003;239.000 km;Otomatik;LPG & Benzin;Hatchback/5;Beyaz;1595 cc;101 hp;Önden Çekiş;8,6 lt;55 lt;3 değişen;Takasa Uygun;Sahibinden
+710.000 TL;Audi;A3;A3 Sportback 1.6 Standart;2006;87.000 km;Düz;LPG & Benzin;Hatchback/3;Füme;1595 cc;102 hp;Önden Çekiş;7 lt;55 lt;1 değişen, 1 boyalı;-;Sahibinden
+1.105.000 TL;Audi;A3;A3 Sportback 1.6 TDI Dynamic;2017;106.000 km;Otomatik;Dizel;Hatchback/5;Beyaz;1401 - 1600 cm3;101 - 125 HP;-;-;-;Tamamı orjinal;Takasa Uygun;Galeriden
+700.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2011;210.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;2 değişen;Takasa Uygun;Galeriden
+1.210.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;69.000 km;Yarı Otomatik;Dizel;Sedan;Gri;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+1.700.000 TL;Audi;A3;A3 Sedan 35 TFSI S-Line;2021;39.000 km;Yarı Otomatik;Hibrit;Sedan;Siyah;1498 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.190.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2017;93.000 km;Yarı Otomatik;Dizel;Sedan;Lacivert;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Galeriden
+1.350.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;177.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.099.750 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;145.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+815.000 TL;Audi;A3;A3 Sportback 1.2 TFSI Attraction;2011;38.315 km;Yarı Otomatik;Benzin;Hatchback/3;Siyah;1197 cc;105 hp;Önden Çekiş;5,3 lt;55 lt;1 değişen, 3 boyalı;Takasa Uygun Değil;Galeriden
+912.900 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2014;222.500 km;Yarı Otomatik;Dizel;Sedan;Gri (Gümüş);1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.095.000 TL;Audi;A3;A3 Sportback 1.8 T Ambiente;2013;78.500 km;Otomatik;Benzin;Hatchback/3;Beyaz;1395 cc;122 hp;Önden Çekiş;-;-;6 boyalı;Takasa Uygun Değil;Galeriden
+995.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2016;139.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.015.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2015;140.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Sahibinden
+937.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2016;138.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+709.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2010;141.000 km;Düz;Benzin;Hatchback/3;Beyaz;1390 cc;125 hp;Önden Çekiş;5,9 lt;55 lt;1 değişen, 2 boyalı;-;Sahibinden
+1.150.000 TL;Audi;A3;A3 Sportback 1.6 TDI Dynamic;2017;145.000 km;Otomatik;Dizel;Hatchback/3;Beyaz;-;-;-;-;-;Belirtilmemiş;-;Sahibinden
+1.375.000 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;70.000 km;Otomatik;Benzin;Sedan;Beyaz;1401 - 1600 cm3;151 - 175 HP;Önden Çekiş;-;-;2 boyalı;Takasa Uygun Değil;Sahibinden
+680.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2012;195.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;2 değişen, 2 boyalı;-;Sahibinden
+1.150.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2015;95.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;10 boyalı;Takasa Uygun Değil;Sahibinden
+939.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2014;124.320 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+1.085.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2014;136.400 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;-;Sahibinden
+435.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2004;308.000 km;Otomatik;LPG & Benzin;Hatchback/3;Siyah;1595 cc;101 hp;Önden Çekiş;8,6 lt;55 lt;4 değişen;-;Sahibinden
+1.050.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2013;104.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Sahibinden
+1.238.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2016;85.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+589.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2007;296.000 km;Otomatik;LPG & Benzin;Hatchback/5;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;8 boyalı;Takasa Uygun;Galeriden
+945.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2015;138.423 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;4 boyalı;Takasa Uygun Değil;Galeriden
+1.439.500 TL;Audi;A3;A3 Sportback 35 TFSI Design;2020;30.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1498 cc;150 hp;Önden Çekiş;5 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Galeriden
+1.550.000 TL;Audi;A3;A3 Sedan 35 TFSI Advanced;2021;49.000 km;Yarı Otomatik;Benzin;Sedan;Siyah;1498 cc;150 hp;-;Belirtilmemiş;-;-;Takasa Uygun;Galeriden
+1.099.950 TL;Audi;A3;A3 Sedan 1.0 TFSI Dynamic;2017;102.000 km;Yarı Otomatik;Benzin;Sedan;Füme;999 cc;116 hp;Önden Çekiş;4,4 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.209.500 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;154.000 km;Yarı Otomatik;Dizel;Sedan;Mavi (metalik);1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Galeriden
+1.020.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;77.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+895.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2013;121.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.735.000 TL;Audi;A3;A3 Sedan 30 TFSI S-Line;2021;67.000 km;Yarı Otomatik;Hibrit;Sedan;Beyaz;999 cc;110 hp;Önden Çekiş;4,5 lt;45 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.049.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2016;183.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.199.750 TL;Audi;A3;A3 Sportback 1.6 TDI Design Line;2017;117.804 km;Yarı Otomatik;Dizel;Hatchback/5;Gri;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;3 boyalı;Takasa Uygun Değil;Yetkili Bayiden
+705.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2012;138.000 km;Düz;LPG & Benzin;Hatchback/3;Beyaz;1595 cc;102 hp;Önden Çekiş;6,8 lt;55 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.189.900 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;79.815 km;Yarı Otomatik;Benzin;Sedan;Siyah;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+1.415.000 TL;Audi;A3;A3 Sportback 35 TFSI Design;2020;28.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1498 cc;150 hp;Önden Çekiş;5 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+1.285.000 TL;Audi;A3;A3 Sedan 30 TDI Design;2019;130.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.355.500 TL;Audi;A3;A3 Sedan 30 TFSI Dynamic;2019;51.750 km;Yarı Otomatik;Benzin;Sedan;Siyah;999 cc;116 hp;Önden Çekiş;4,4 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Galeriden
+1.299.950 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;53.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+650.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2011;178.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;2 değişen, 1 boyalı;Takasa Uygun Değil;Sahibinden
+1.400.000 TL;Audi;A3;A3 Sedan 30 TDI Design;2019;122.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+1.070.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2016;110.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.419.000 TL;Audi;A3;A3 Sportback 35 TFSI Sport;2020;45.193 km;Yarı Otomatik;Benzin;Hatchback/5;Mavi (metalik);1498 cc;150 hp;Önden Çekiş;5 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.315.000 TL;Audi;A3;A3 Sedan 30 TDI Design;2019;86.130 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;3 boyalı;Takasa Uygun;Galeriden
+999.750 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2015;74.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;1 değişen, 2 boyalı;Takasa Uygun Değil;Sahibinden
+1.150.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2016;141.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Sahibinden
+1.390.000 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;22.000 km;Yarı Otomatik;Benzin;Sedan;Siyah;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.350.000 TL;Audi;A3;A3 Sportback 30 TDI Dynamic;2019;45.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;116 hp;Önden Çekiş;4 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+1.100.000 TL;Audi;A3;A3 Sedan 1.6 TDI S Line;2015;47.520 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;-;Sahibinden
+920.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2014;218.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;-;Sahibinden
+820.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambiente;2013;157.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1395 cc;122 hp;Önden Çekiş;5 lt;50 lt;1 değişen, 2 boyalı;Takasa Uygun Değil;Sahibinden
+850.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2014;195.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;-;Sahibinden
+628.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2007;199.000 km;Otomatik;LPG & Benzin;Hatchback/5;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;1 değişen, 2 boyalı;-;Sahibinden
+990.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;161.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+590.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2007;245.000 km;Otomatik;LPG & Benzin;Hatchback/3;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;Tamamı orjinal;Takasa Uygun Değil;Galeriden
+1.199.750 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;82.200 km;Yarı Otomatik;Benzin;Sedan;Beyaz;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;1 değişen;Takasa Uygun;Galeriden
+1.500.000 TL;Audi;A3;A3 Sportback 35 TFSI Sport;2020;36.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1498 cc;150 hp;Önden Çekiş;5 lt;50 lt;Tamamı orjinal;Takasa Uygun;Galeriden
+994.750 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2016;157.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.179.000 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;65.000 km;Yarı Otomatik;Benzin;Sedan;Füme;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;3 boyalı;Takasa Uygun Değil;Galeriden
+1.110.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;97.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+665.000 TL;Audi;A3;A3 Sportback 1.6 TDI Standart;2012;262.000 km;Otomatik;Dizel;Hatchback/5;Siyah;1401 - 1600 cm3;101 - 125 HP;-;-;-;2 değişen;Takasa Uygun;Galeriden
+1.125.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2016;64.363 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;1 boyalı;Takasa Uygun;Galeriden
+960.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2015;203.254 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Yetkili Bayiden
+1.500.000 TL;Audi;A3;A3 Sedan 35 TFSI S-Line;2020;26.321 km;Yarı Otomatik;Benzin;Sedan;Beyaz;1498 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;Tamamı orjinal;Takasa Uygun Değil;Galeriden
+969.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2015;116.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+667.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;275.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;4 boyalı;Takasa Uygun;Sahibinden
+430.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2002;272.980 km;Düz;LPG & Benzin;Hatchback/5;Lacivert;1595 cc;102 hp;Önden Çekiş;6,8 lt;55 lt;4 boyalı;Takasa Uygun;Sahibinden
+725.000 TL;Audi;A3;A3 Sportback 1.2 TFSI Attraction;2012;73.000 km;Düz;Benzin;Hatchback/5;Siyah;1197 cc;105 hp;Önden Çekiş;5,5 lt;55 lt;Belirtilmemiş;Takasa Uygun;Sahibinden
+1.270.000 TL;Audi;A3;A3 Sportback 1.6 TDI Dynamic;2018;75.000 km;Düz;Dizel;Hatchback/5;Beyaz;1598 cc;116 hp;Önden Çekiş;4 lt;50 lt;Tamamı orjinal;-;Sahibinden
+940.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2016;149.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;Belirtilmemiş;-;Sahibinden
+899.500 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;274.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun;Galeriden
+1.045.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2016;195.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;Belirtilmemiş;Takasa Uygun Değil;Galeriden
+590.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2008;288.000 km;Düz;Benzin;Hatchback/3;-;1390 cc;125 hp;Önden Çekiş;5,9 lt;55 lt;1 değişen, 10 boyalı;Takasa Uygun;Sahibinden
+1.100.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2014;53.000 km;Yarı Otomatik;Dizel;Hatchback/3;Bej;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+845.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2012;145.000 km;Yarı Otomatik;Dizel;Hatchback/3;Beyaz;1598 cc;105 hp;Önden Çekiş;3,8 lt;50 lt;-;-;Sahibinden
+1.150.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;153.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1401 - 1600 cm3;101 - 125 HP;Önden Çekiş;-;-;Tamamı orjinal;Takasa Uygun;Galeriden
+765.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2011;140.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+1.175.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;132.000 km;Yarı Otomatik;Dizel;Sedan;Füme;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.169.900 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;75.569 km;Yarı Otomatik;Benzin;Sedan;Siyah;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;-;Takasa Uygun;Galeriden
+800.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2010;150.000 km;Yarı Otomatik;Benzin;Hatchback/5;Füme;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;-;Takasa Uygun;Galeriden
+920.000 TL;Audi;A3;A3 Sedan 1.4 TFSI Attraction;2013;170.000 km;Yarı Otomatik;Benzin;Sedan;Beyaz;1395 cc;140 hp;Önden Çekiş;4,7 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.070.000 TL;Audi;A3;A3 Sportback 1.6 TDI Sport Line;2015;157.500 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;-;-;Sahibinden
+1.140.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2015;177.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+695.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2011;175.000 km;Yarı Otomatik;LPG & Benzin;Hatchback/3;Beyaz;1595 cc;102 hp;Önden Çekiş;6,7 lt;55 lt;-;-;Sahibinden
+419.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2002;218.000 km;Otomatik;LPG & Benzin;Hatchback/5;Lacivert;1595 cc;102 hp;Önden Çekiş;8 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+1.115.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2014;89.900 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.199.000 TL;Audi;A3;A3 Sportback 1.6 TDI Standart;2013;198.000 km;Yarı Otomatik;Dizel;Hatchback/5;Kırmızı;1401 - 1600 cm3;101 - 125 HP;Önden Çekiş;-;-;Tamamı orjinal;Takasa Uygun;Galeriden
+833.750 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2012;98.909 km;Yarı Otomatik;Benzin;Hatchback/5;Siyah;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;-;Takasa Uygun Değil;Yetkili Bayiden
+999.750 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2015;157.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.060.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2016;215.000 km;Yarı Otomatik;Dizel;Sedan;-;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;8 boyalı;-;Sahibinden
+635.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2010;220.000 km;Düz;Benzin;Hatchback/5;Siyah;1390 cc;125 hp;Önden Çekiş;6 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+1.238.000 TL;Audi;A3;A3 Sedan 1.0 TFSI Dynamic;2016;190.000 km;Yarı Otomatik;Benzin;Sedan;Beyaz;999 cc;116 hp;Önden Çekiş;4,4 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+990.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;109.555 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+915.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2010;186.000 km;Yarı Otomatik;Benzin;Hatchback/5;Füme;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;-;Takasa Uygun;Sahibinden
+380.000 TL;Audi;A3;A3 Sportback 1.6 FSI;2006;284.000 km;Düz;LPG & Benzin;Hatchback/5;Siyah;1595 cc;115 hp;Önden Çekiş;6,5 lt;55 lt;-;-;Sahibinden
+900.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2012;200.000 km;Yarı Otomatik;Benzin;Hatchback/3;Mavi (metalik);1395 cc;122 hp;Önden Çekiş;4,9 lt;50 lt;-;-;Sahibinden
+1.210.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;99.300 km;Yarı Otomatik;Dizel;Sedan;Füme;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.310.000 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;49.000 km;Yarı Otomatik;Benzin;Sedan;Siyah;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;-;Takasa Uygun;Galeriden
+1.050.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;165.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+1.175.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2013;230.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.375.000 TL;Audi;A3;A3 Cabrio 1.4 TFSI Attraction;2014;145.000 km;Yarı Otomatik;Benzin;Cabrio;Kırmızı;1395 cc;140 hp;Önden Çekiş;5 lt;50 lt;-;Takasa Uygun;Galeriden
+620.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2010;210.000 km;Otomatik;Benzin;Hatchback/3;Beyaz;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun;Galeriden
+1.055.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2016;144.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.275.000 TL;Audi;A3;A3 Sedan 1.6 TDI Sport Line;2016;111.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;-;Sahibinden
+830.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2013;74.500 km;Yarı Otomatik;Dizel;Hatchback/5;Gri;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+458.000 TL;Audi;A3;A3 Sportback 1.6 Standart;2006;235.000 km;Otomatik;Benzin;Hatchback/3;Füme;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun;Sahibinden
+740.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2009;110.000 km;Düz;Benzin;Hatchback/5;Siyah;1390 cc;125 hp;Önden Çekiş;6 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+985.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2016;180.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.100.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2014;145.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+527.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2005;240.000 km;Otomatik;LPG & Benzin;Hatchback/3;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun Değil;Galeriden
+1.275.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2016;60.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+550.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2008;185.500 km;Otomatik;LPG & Benzin;Hatchback/5;Gri (Gümüş);1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun Değil;Galeriden
+1.359.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2019;69.500 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun;Galeriden
+1.270.000 TL;Audi;A3;A3 Sedan 1.6 TDI;2016;192.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun;Galeriden
+1.065.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2015;138.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+730.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;200.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;-;-;Sahibinden
+690.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2009;178.000 km;Otomatik;LPG & Benzin;Hatchback/3;Beyaz;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun;Sahibinden
+460.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2000;267.700 km;Otomatik;LPG & Benzin;Hatchback/5;Gri (Gümüş);1595 cc;101 hp;Önden Çekiş;8,6 lt;55 lt;-;-;Sahibinden
+460.000 TL;Audi;A3;A3 Sportback 1.6 Ambition;2006;340.000 km;Düz;LPG & Benzin;Hatchback/5;Gri;1601 - 1800 cm3;-;-;-;-;3 değişen, 6 boyalı;Takasa Uygun Değil;Sahibinden
+1.200.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2016;88.000 km;Yarı Otomatik;Dizel;Hatchback/5;Lacivert;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+960.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2014;211.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+880.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2015;220.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.450.000 TL;Audi;A3;A3 Sedan 35 TFSI S-Line;2021;28.000 km;Yarı Otomatik;Hibrit;Sedan;Lacivert;1498 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;-;-;Sahibinden
+1.250.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2015;149.000 km;Yarı Otomatik;Dizel;Sedan;Gri;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+800.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;160.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;-;Takasa Uygun Değil;Galeriden
+1.030.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2016;138.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+775.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Attraction;2011;140.000 km;Düz;LPG & Benzin;Hatchback/5;Beyaz;1595 cc;102 hp;Önden Çekiş;6,9 lt;55 lt;-;Takasa Uygun;Sahibinden
+420.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2000;428.000 km;Düz;LPG & Benzin;Hatchback/5;Gri (Gümüş);1595 cc;101 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun;Sahibinden
+1.105.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2014;175.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+545.000 TL;Audi;A3;A3 Sportback 1.6 FSI;2006;268.000 km;Düz;Benzin;Hatchback/3;Siyah;1595 cc;115 hp;Önden Çekiş;6,5 lt;55 lt;-;Takasa Uygun;Sahibinden
+650.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2010;237.200 km;Düz;LPG & Benzin;Hatchback/3;Siyah;1595 cc;102 hp;Önden Çekiş;6,8 lt;55 lt;-;-;Sahibinden
+1.910.000 TL;Audi;A3;A3 Sportback 35 TFSI S-Line;2023;11.000 km;Yarı Otomatik;Hibrit;Hatchback/5;Gri;1498 cc;150 hp;Önden Çekiş;5 lt;50 lt;-;Takasa Uygun;Sahibinden
+1.030.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;87.800 km;Otomatik;Dizel;Sedan;Beyaz;-;-;-;-;-;Belirtilmemiş;-;Sahibinden
+1.250.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2016;170.000 km;Yarı Otomatik;Dizel;Sedan;Füme;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun;Galeriden
+910.000 TL;Audi;A3;A3 Sportback 1.2 TFSI Attraction;2012;142.500 km;Yarı Otomatik;Benzin;Hatchback/5;Siyah;1197 cc;105 hp;Önden Çekiş;5,3 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+1.550.000 TL;Audi;A3;A3 Sportback 35 TFSI Advanced;2022;22.600 km;Yarı Otomatik;Hibrit;Hatchback/5;Beyaz;1498 cc;150 hp;Önden Çekiş;5 lt;50 lt;-;-;Sahibinden
+1.010.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2015;122.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.315.000 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;31.000 km;Yarı Otomatik;Benzin;Sedan;Mavi;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;-;-;Sahibinden
+430.000 TL;Audi;A3;A3 Sportback 1.8 T Attraction;2001;231.000 km;Düz;LPG & Benzin;Hatchback/5;Mavi (metalik);1781 cc;180 hp;Önden Çekiş;7,8 lt;55 lt;-;Takasa Uygun;Sahibinden
+1.130.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;132.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun;Sahibinden
+495.000 TL;Audi;A3;A3 Sportback 1.6 Ambition;2008;284.000 km;Düz;LPG & Benzin;Hatchback/3;Beyaz;1595 cc;102 hp;Önden Çekiş;6,8 lt;55 lt;-;Takasa Uygun;Sahibinden
+540.000 TL;Audi;A3;A3 Sportback 1.6 Ambition;2007;282.000 km;Otomatik;Benzin;Hatchback/3;Siyah;1401 - 1600 cm3;101 - 125 HP;Önden Çekiş;-;-;5 boyalı;Takasa Uygun Değil;Sahibinden
+610.000 TL;Audi;A3;A3 Sportback 1.6 FSI;2007;142.000 km;Düz;Benzin;-;Hatchback/3;1595 cc;115 hp;Önden Çekiş;6,5 lt;55 lt;-;-;Sahibinden
+790.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;220.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;-;-;Sahibinden
+880.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2013;265.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+735.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2009;150.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;-;Takasa Uygun;Sahibinden
+455.000 TL;Audi;A3;A3 Sportback 1.6 Ambition;2006;317.000 km;Otomatik;LPG & Benzin;Hatchback/3;Siyah;1401 - 1600 cm3;101 - 125 HP;-;-;-;3 değişen, 8 boyalı;Takasa Uygun;Galeriden
+1.355.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;68.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun;Galeriden
+1.245.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2016;155.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.130.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2015;146.684 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+799.900 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2013;168.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+660.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2011;169.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;-;-;Sahibinden
+600.000 TL;Audi;A3;A3 Sportback 1.6 Ambition;2002;64.000 km;Otomatik;Benzin;Hatchback/5;Gri (Gümüş);1595 cc;102 hp;Önden Çekiş;8 lt;55 lt;-;Takasa Uygun;Sahibinden
+1.220.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2014;240.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.485.000 TL;Audi;A3;A3 Sedan 35 TFSI Sport;2020;21.150 km;Yarı Otomatik;Benzin;Sedan;Gri (metalik);1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+865.000 TL;Audi;A3;A3 Sportback 1.4 TFSI;2011;190.000 km;Yarı Otomatik;Benzin;Hatchback/5;Kırmızı;1390 cc;125 hp;Önden Çekiş;6,5 lt;55 lt;-;-;Sahibinden
+680.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2010;200.000 km;Yarı Otomatik;Benzin;Hatchback/3;Siyah;1390 cc;125 hp;Önden Çekiş;5,6 lt;55 lt;-;Takasa Uygun;Sahibinden
+975.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2014;147.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.550.000 TL;Audi;A3;A3 Sportback 35 TFSI Dynamic;2020;19.900 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1498 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;-;Takasa Uygun;Galeriden
+950.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2016;115.000 km;Yarı Otomatik;Dizel;Sedan;Kırmızı;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+1.175.000 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;49.000 km;Yarı Otomatik;Benzin;Sedan;Siyah;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;-;Takasa Uygun;Galeriden
+1.830.000 TL;Audi;A3;A3 Sedan 35 TFSI Sport;2021;53.000 km;Yarı Otomatik;Benzin;Sedan;Beyaz;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;-;-;Sahibinden
+1.195.000 TL;Audi;A3;A3 Sportback 1.6 TDI Sport Line;2016;174.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;-;Takasa Uygun;Galeriden
+1.160.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;150.000 km;Yarı Otomatik;Dizel;Sedan;Füme;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+1.177.750 TL;Audi;A3;A3 Sedan 30 TDI Design;2019;95.346 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+1.575.000 TL;Audi;A3;A3 Sportback 30 TFSI Dynamic;2021;22.900 km;Yarı Otomatik;Benzin;Hatchback/5;Siyah;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+695.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;250.000 km;Yarı Otomatik;Dizel;Hatchback/5;-;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;3 boyalı;-;Sahibinden
+775.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2009;236.000 km;Yarı Otomatik;Benzin;Hatchback/5;Füme;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;-;Takasa Uygun;Sahibinden
+1.085.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2017;97.000 km;Yarı Otomatik;Benzin;Hatchback/5;Siyah;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+470.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2007;385.000 km;Otomatik;LPG & Benzin;Hatchback/3;Beyaz;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;-;Sahibinden
+670.000 TL;Audi;A3;A3 Sportback 1.6 Ambition;2008;160.000 km;Yarı Otomatik;Benzin;Hatchback/3;Gri;1595 cc;102 hp;Önden Çekiş;6,7 lt;55 lt;-;-;Sahibinden
+650.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Ambition;2006;229.000 km;Otomatik;LPG & Benzin;Hatchback/5;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;-;Sahibinden
+900.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2016;115.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+950.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2014;162.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+629.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2008;191.000 km;Düz;Benzin;Hatchback/3;Beyaz;1390 cc;125 hp;Önden Çekiş;5,9 lt;55 lt;-;-;Sahibinden
+935.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2014;190.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+420.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2000;273.000 km;Düz;LPG & Benzin;Hatchback/3;Gri (metalik);1595 cc;101 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun;Sahibinden
+1.150.000 TL;Audi;A3;A3 Sportback 1.6 TDI Sport Line;2016;88.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.370.000 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;59.957 km;Yarı Otomatik;Benzin;Sedan;Füme;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;-;Takasa Uygun Değil;Yetkili Bayiden
+1.089.900 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2015;143.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+1.075.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;124.000 km;Yarı Otomatik;Dizel;Sedan;Gri;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+899.900 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2014;129.053 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+1.415.900 TL;Audi;A3;A3 Sportback 30 TDI Design;2019;46.000 km;Yarı Otomatik;Dizel;Hatchback/5;Lacivert;1598 cc;116 hp;Önden Çekiş;4 lt;50 lt;-;Takasa Uygun;Galeriden
+807.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2013;208.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+950.000 TL;Audi;A3;A3 Sportback 1.6 TDI Sport Line;2013;235.000 km;Yarı Otomatik;Dizel;Hatchback/5;Kırmızı;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;-;Takasa Uygun;Sahibinden
+970.000 TL;Audi;A3;A3 Sedan 1.4 TFSI Ambiante;2013;110.000 km;Yarı Otomatik;Benzin;Sedan;Füme;1395 cc;140 hp;Önden Çekiş;4,7 lt;50 lt;-;-;Sahibinden
+1.330.000 TL;Audi;A3;A3 Sportback 1.6 TDI Design Line;2018;138.000 km;Yarı Otomatik;Dizel;Hatchback/5;Yeşil (metalik);1598 cc;116 hp;Önden Çekiş;4 lt;50 lt;-;-;Sahibinden
+400.000 TL;Audi;A3;A3 Sportback 1.9 TDI Attraction;2001;231.000 km;Düz;Dizel;Hatchback/3;Gri;1896 cc;110 hp;Önden Çekiş;5 lt;55 lt;-;Takasa Uygun;Sahibinden
+1.064.750 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2017;105.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.355.000 TL;Audi;A3;A3 Sedan 35 TFSI Sport;2020;67.000 km;Yarı Otomatik;Benzin;Sedan;Siyah;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+985.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;131.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.015.000 TL;Audi;A3;A3 Sedan 1.6 TDI S Line;2014;171.000 km;Otomatik;Dizel;Sedan;-;-;-;-;-;-;Belirtilmemiş;Takasa Uygun;Sahibinden
+1.380.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;135.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+925.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2016;165.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+610.000 TL;Audi;A3;A3 Sportback 1.6 Ambition;2005;330.000 km;Yarı Otomatik;LPG & Benzin;Hatchback/3;Siyah;1401 - 1600 cm3;101 - 125 HP;Önden Çekiş;-;-;1 değişen, 9 boyalı;Takasa Uygun;Sahibinden
+900.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambiente;2013;85.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1395 cc;122 hp;Önden Çekiş;5 lt;50 lt;-;-;Sahibinden
+415.000 TL;Audi;A3;A3 Sportback 1.8 Ambiente;2000;238.000 km;Otomatik;LPG & Benzin;Hatchback/5;Gri;1781 cc;125 hp;Önden Çekiş;8,5 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+1.670.000 TL;Audi;A3;A3 Sedan 1.5 TFSI Sport Line;2021;34.700 km;Yarı Otomatik;Benzin;Sedan;Beyaz;1401 - 1600 cm3;126 - 150 HP;Önden Çekiş;-;-;Belirtilmemiş;Takasa Uygun;Sahibinden
+795.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2013;305.000 km;Otomatik;Dizel;Sedan;Beyaz;-;-;Önden Çekiş;-;-;1 değişen, 2 boyalı;-;Sahibinden
+719.900 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2012;200.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;-;Takasa Uygun;Galeriden
+945.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2016;235.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.075.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2015;188.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.125.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2015;217.000 km;Yarı Otomatik;Dizel;Hatchback/5;Lacivert;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+1.550.000 TL;Audi;A3;A3 Sedan 35 TFSI Advanced;2021;40.766 km;Yarı Otomatik;Benzin;Sedan;Siyah;1498 cc;150 hp;-;-;-;Belirtilmemiş;Takasa Uygun;Galeriden
+999.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2016;94.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+685.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2009;158.084 km;Yarı Otomatik;Benzin;Hatchback/5;Siyah;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;-;Takasa Uygun;Galeriden
+522.000 TL;Audi;A3;A3 Sportback 1.6 FSI;2007;225.000 km;Düz;Benzin;Hatchback/5;Siyah;1595 cc;115 hp;Önden Çekiş;6,5 lt;55 lt;-;Takasa Uygun;Galeriden
+775.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2009;221.000 km;Yarı Otomatik;Benzin;Hatchback/5;Kırmızı;1390 cc;125 hp;Önden Çekiş;5,7 lt;55 lt;-;Takasa Uygun;Galeriden
+959.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;112.000 km;Yarı Otomatik;Dizel;Sedan;Mavi;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun;Galeriden
+995.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;179.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+810.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2014;226.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.555.000 TL;Audi;A3;A3 Sedan 1.6 TDI Sport Line;2018;55.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+789.000 TL;Audi;A3;A3 Sportback 1.2 TFSI Ambiente;2015;187.000 km;Düz;Benzin;Hatchback/5;Beyaz;1197 cc;110 hp;Önden Çekiş;5 lt;50 lt;-;-;Sahibinden
+1.120.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;155.000 km;Otomatik;Dizel;Sedan;Lacivert;-;-;-;-;-;Belirtilmemiş;-;Sahibinden
+960.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2015;180.000 km;Yarı Otomatik;Dizel;Hatchback/5;Mavi (metalik);1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.120.000 TL;Audi;A3;A3 Sedan 1.4 TFSI Ambition;2013;190.000 km;Yarı Otomatik;Benzin;Sedan;Kırmızı;1395 cc;140 hp;Önden Çekiş;4,7 lt;50 lt;-;Takasa Uygun;Sahibinden
+885.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2013;178.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+964.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2014;231.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+760.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2012;230.000 km;Yarı Otomatik;Dizel;Hatchback/3;Siyah;1598 cc;105 hp;Önden Çekiş;3,8 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+950.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2016;130.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+635.000 TL;Audi;A3;A3 Sportback 1.4 TFSI;2009;118.913 km;Yarı Otomatik;Benzin;Hatchback/5;Siyah;1390 cc;125 hp;Önden Çekiş;6,5 lt;55 lt;-;Takasa Uygun;Galeriden
+451.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2004;247.000 km;Düz;LPG & Benzin;Hatchback/3;Siyah;1601 - 1800 cm3;-;-;-;-;Tamamı orjinal;Takasa Uygun Değil;Sahibinden
+1.130.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;59.000 km;Yarı Otomatik;Dizel;Sedan;Füme;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+939.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2015;129.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+775.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2012;216.500 km;Yarı Otomatik;Dizel;Hatchback/3;Beyaz;1598 cc;105 hp;Önden Çekiş;3,8 lt;50 lt;-;Takasa Uygun;Sahibinden
+435.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2004;299.000 km;Düz;LPG & Benzin;Hatchback/3;Füme;1595 cc;101 hp;Önden Çekiş;7,6 lt;55 lt;-;-;Sahibinden
+1.050.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;160.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.585.000 TL;Audi;A3;A3 Sedan 35 TFSI Advanced;2021;45.000 km;Yarı Otomatik;Hibrit;Sedan;Beyaz;1498 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.065.000 TL;Audi;A3;A3 Sportback 1.6 TDI Dynamic;2016;97.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+799.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2012;217.000 km;Otomatik;Dizel;Hatchback/5;Beyaz;1401 - 1600 cm3;126 - 150 HP;Önden Çekiş;-;-;5 boyalı;Takasa Uygun;Sahibinden
+995.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2016;185.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+585.000 TL;Audi;A3;A3 Sportback 1.6 FSI;2006;230.000 km;Düz;Benzin;Hatchback/5;Beyaz;1595 cc;115 hp;Önden Çekiş;6,5 lt;55 lt;-;Takasa Uygun;Sahibinden
+750.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2006;137.500 km;Otomatik;LPG & Benzin;Hatchback/3;Gri (metalik);1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun;Sahibinden
+1.180.000 TL;Audi;A3;A3 Sportback 1.6 TDI Sport Line;2014;223.000 km;Yarı Otomatik;Dizel;Hatchback/5;Kırmızı;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;-;-;Sahibinden
+610.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2008;200.000 km;Yarı Otomatik;LPG & Benzin;Hatchback/3;Siyah;1390 cc;125 hp;Önden Çekiş;5,7 lt;55 lt;-;-;Sahibinden
+1.300.000 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;61.000 km;Yarı Otomatik;Benzin;Sedan;Füme;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.150.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2018;95.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+849.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;202.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;-;Takasa Uygun Değil;Galeriden
+745.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2010;238.000 km;Yarı Otomatik;Benzin;Hatchback/5;Siyah;1390 cc;125 hp;Önden Çekiş;5,7 lt;55 lt;-;Takasa Uygun Değil;Galeriden
+1.395.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;83.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+954.900 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2013;159.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+1.014.000 TL;Audi;A3;A3 Sportback 1.6 TDI Design Line;2016;102.598 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;-;Takasa Uygun;Galeriden
+705.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2011;163.000 km;Yarı Otomatik;LPG & Benzin;Hatchback/3;Beyaz;1595 cc;102 hp;Önden Çekiş;6,7 lt;55 lt;-;-;Galeriden
+750.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2010;165.500 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;-;-;Sahibinden
+1.150.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2017;196.000 km;Otomatik;Dizel;Sedan;Beyaz;-;101 - 125 HP;-;-;-;Belirtilmemiş;Takasa Uygun;Sahibinden
+620.000 TL;Audi;A3;A3 Sportback 1.6 Ambition;2011;109.000 km;Düz;Benzin;Hatchback/3;Siyah;1595 cc;102 hp;Önden Çekiş;6,8 lt;55 lt;-;Takasa Uygun;Sahibinden
+1.115.000 TL;Audi;A3;A3 Sedan 1.4 TFSI Ambition;2013;218.000 km;Yarı Otomatik;Benzin;Sedan;Siyah;1395 cc;140 hp;Önden Çekiş;4,7 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+325.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2002;258.748 km;Düz;LPG & Benzin;Hatchback/3;Mavi;1595 cc;102 hp;Önden Çekiş;6,8 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+899.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;131.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+620.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2010;204.000 km;Düz;LPG & Benzin;Hatchback/5;Füme;1595 cc;102 hp;Önden Çekiş;7 lt;55 lt;-;-;Sahibinden
+640.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2009;179.240 km;Düz;Benzin;Hatchback/3;Siyah;1595 cc;102 hp;Önden Çekiş;6,8 lt;55 lt;-;Takasa Uygun;Sahibinden
+575.000 TL;Audi;A3;A3 Sportback 2.0 TDI Standart;2006;230.000 km;Düz;Dizel;Hatchback/5;Siyah;1968 cc;140 hp;Önden Çekiş;5,5 lt;55 lt;-;Takasa Uygun;Galeriden
+1.029.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2013;109.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+1.216.500 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;98.000 km;Yarı Otomatik;Dizel;Sedan;Füme;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun;Galeriden
+1.065.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2015;164.700 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.454.900 TL;Audi;A3;A3 Sportback 30 TDI Design;2019;42.000 km;Yarı Otomatik;Dizel;Hatchback/5;Gri;1598 cc;116 hp;Önden Çekiş;4 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+920.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2014;170.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+419.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2005;228.000 km;Otomatik;LPG & Benzin;Hatchback/3;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun;Sahibinden
+845.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;127.000 km;Yarı Otomatik;Dizel;Hatchback/5;Mavi (metalik);1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;-;-;Sahibinden
+1.050.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2014;124.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+645.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2008;246.000 km;Otomatik;LPG & Benzin;Hatchback/5;Bordo;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+1.270.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2016;93.800 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.250.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambiente;2016;82.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1395 cc;150 hp;Önden Çekiş;4,7 lt;50 lt;-;Takasa Uygun;Sahibinden
+910.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2012;220.000 km;Yarı Otomatik;Dizel;Hatchback/3;Beyaz;1598 cc;105 hp;Önden Çekiş;3,8 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+665.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2010;200.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;-;Takasa Uygun Değil;Galeriden
+565.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2006;300.000 km;Düz;Benzin;Hatchback/5;Beyaz;1595 cc;102 hp;Önden Çekiş;7 lt;55 lt;-;-;Sahibinden
+1.200.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2015;159.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+1.365.000 TL;Audi;A3;A3 Sedan 1.6 TDI Sport Line;2017;149.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun;Sahibinden
+840.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2014;274.000 km;Otomatik;Dizel;Sedan;Beyaz;-;-;-;-;-;Belirtilmemiş;-;Sahibinden
+975.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2015;139.690 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+649.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Attraction;2008;219.000 km;Düz;LPG & Benzin;Hatchback/5;-;1595 cc;102 hp;Önden Çekiş;6,9 lt;55 lt;3 değişen, 9 boyalı;-;Sahibinden
+1.280.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2017;81.000 km;Yarı Otomatik;Dizel;Sedan;Lacivert;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;-;Sahibinden
+1.220.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;159.000 km;Yarı Otomatik;Dizel;Sedan;Füme;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+1.210.000 TL;Audi;A3;A3 Sportback 1.6 TDI Sport Line;2016;82.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;-;-;Sahibinden
+715.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Ambiente;2007;179.000 km;Otomatik;Benzin;Hatchback/5;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun;Galeriden
+899.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2013;188.000 km;Yarı Otomatik;Dizel;Hatchback/5;Kırmızı;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+1.447.500 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;47.214 km;Yarı Otomatik;Benzin;Sedan;Siyah;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.462.500 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;45.391 km;Yarı Otomatik;Benzin;Sedan;Gri;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.765.000 TL;Audi;A3;A3 Sedan 35 TFSI S-Line;2021;30.000 km;Yarı Otomatik;Hibrit;Sedan;Lacivert;1498 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+800.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2012;159.138 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;-;Takasa Uygun;Galeriden
+835.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2012;115.000 km;Yarı Otomatik;Dizel;Hatchback/3;Kırmızı;1598 cc;105 hp;Önden Çekiş;3,8 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.568.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2017;79.000 km;Yarı Otomatik;Dizel;Sedan;Kırmızı;1401 - 1600 cm3;-;Önden Çekiş;-;-;Belirtilmemiş;Takasa Uygun Değil;Sahibinden
+915.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;190.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+785.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2010;220.000 km;Yarı Otomatik;Benzin;Hatchback/5;Gri;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+1.000.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2016;165.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+1.150.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2017;130.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun;Galeriden
+370.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2005;284.742 km;Düz;LPG & Benzin;Hatchback/5;Diğer;1595 cc;102 hp;Önden Çekiş;7 lt;55 lt;-;-;Sahibinden
+1.000.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2015;201.500 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.380.000 TL;Audi;A3;A3 Sportback 35 TFSI Dynamic;2020;36.000 km;Yarı Otomatik;Benzin;Hatchback/5;Kırmızı;1498 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;-;-;Sahibinden
+1.249.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2017;100.500 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.250.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2018;49.800 km;Yarı Otomatik;Benzin;Hatchback/5;Siyah;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.300.000 TL;Audi;A3;A3 Sportback 1.6 TDI Design Line;2018;124.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+985.000 TL;Audi;A3;A3 Sedan 1.4 TFSI Ambiante;2013;260.000 km;Yarı Otomatik;Benzin;Sedan;Bej;1395 cc;140 hp;Önden Çekiş;4,7 lt;50 lt;-;-;Sahibinden
+1.115.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2017;83.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1401 - 1600 cm3;101 - 125 HP;Önden Çekiş;-;-;1 değişen, 1 boyalı;Takasa Uygun Değil;Sahibinden
+870.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2013;222.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.215.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2016;65.500 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.050.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2015;177.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+875.000 TL;Audi;A3;A3 Sportback 1.4 TFSI;2009;236.000 km;Yarı Otomatik;Benzin;Hatchback/3;Siyah;1390 cc;125 hp;Önden Çekiş;6,5 lt;55 lt;-;-;Sahibinden
+1.238.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2015;123.990 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+802.000 TL;Audi;A3;A3 Sportback 1.2 TFSI Attraction;2012;135.300 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1197 cc;105 hp;Önden Çekiş;5,3 lt;55 lt;-;-;Sahibinden
+700.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Attraction;2010;130.000 km;Yarı Otomatik;Benzin;Hatchback/5;Füme;1595 cc;102 hp;Önden Çekiş;6,7 lt;55 lt;-;Takasa Uygun;Sahibinden
+625.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2008;172.000 km;Yarı Otomatik;Benzin;Hatchback/3;Siyah;1390 cc;125 hp;Önden Çekiş;5,6 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+500.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Attraction;2011;330.000 km;Düz;LPG & Benzin;Hatchback/5;Siyah;1595 cc;102 hp;Önden Çekiş;6,9 lt;55 lt;-;-;Sahibinden
+1.075.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;140.000 km;Otomatik;Dizel;Sedan;Beyaz;1401 - 1600 cm3;126 - 150 HP;Önden Çekiş;-;-;3 değişen, 2 boyalı;Takasa Uygun Değil;Sahibinden
+810.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2015;234.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+665.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2012;330.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;-;-;Sahibinden
+1.150.000 TL;Audi;A3;A3 Sportback 1.6 TDI Design Line;2016;146.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.100.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;114.250 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;-;Sahibinden
+1.120.000 TL;Audi;A3;A3 Sportback 1.6 TDI Standart;2015;175.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;-;-;-;-;-;4 boyalı;Takasa Uygun Değil;Sahibinden
+920.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;196.500 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.299.950 TL;Audi;A3;A3 Sedan 1.4 TFSI Ambition;2013;70.000 km;Yarı Otomatik;Benzin;Sedan;Lacivert;1395 cc;140 hp;Önden Çekiş;4,7 lt;50 lt;-;Takasa Uygun;Galeriden
+1.299.750 TL;Audi;A3;A3 Sedan 30 TDI Design;2019;105.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+250.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;1997;300.000 km;Düz;LPG & Benzin;Hatchback/3;Kırmızı;1595 cc;101 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+1.155.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2016;135.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.399.000 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;52.500 km;Yarı Otomatik;Benzin;Sedan;Lacivert;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;-;-;Sahibinden
+915.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;198.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.575.000 TL;Audi;A3;A3 Sedan 30 TDI Design;2019;55.000 km;Yarı Otomatik;Dizel;Sedan;Gri;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+610.000 TL;Audi;A3;A3 Sportback 1.6 FSI;2005;116.500 km;Düz;Benzin;Hatchback/5;Gri (Gümüş);1595 cc;115 hp;Önden Çekiş;6,5 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+759.500 TL;Audi;A3;A3 Sportback 1.4 TFSI;2009;154.000 km;Yarı Otomatik;Benzin;Hatchback/3;Beyaz;1390 cc;125 hp;Önden Çekiş;6,5 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+820.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2012;180.000 km;Yarı Otomatik;Benzin;Hatchback/3;Siyah;1395 cc;122 hp;Önden Çekiş;4,9 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.000.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2016;241.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+920.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2013;140.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+1.080.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Sport Line;2016;157.000 km;Yarı Otomatik;Benzin;Hatchback/5;Siyah;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;-;-;Sahibinden
+970.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2016;173.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;-;Sahibinden
+1.290.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2016;79.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;-;Sahibinden
+1.050.000 TL;Audi;A3;A3 Sedan 1.6 TDI;2016;131.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;-;-;-;-;-;Belirtilmemiş;-;Sahibinden
+1.110.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2016;69.000 km;Yarı Otomatik;Benzin;Hatchback/5;Siyah;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;-;Takasa Uygun;Galeriden
+1.559.900 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2017;41.950 km;Yarı Otomatik;Dizel;Sedan;Gri (Gümüş);1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.597.000 TL;Audi;A3;A3 Sedan 35 TFSI Advanced;2022;27.000 km;Yarı Otomatik;Hibrit;Sedan;Gri (metalik);1498 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+1.200.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2016;70.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;-;Sahibinden
+1.295.000 TL;Audi;A3;A3 Sedan 1.4 TFSI Ambition;2015;53.750 km;Yarı Otomatik;Benzin;-;Sedan;1395 cc;150 hp;Önden Çekiş;4,7 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.175.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2017;90.000 km;Yarı Otomatik;Benzin;Hatchback/5;Lacivert;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+830.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2014;215.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.450.000 TL;Audi;A3;A3 Sportback 30 TDI Design;2019;48.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;116 hp;Önden Çekiş;4 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.190.750 TL;Audi;A3;A3 Sedan 30 TDI Design;2019;106.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;116 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+1.200.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2015;126.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+730.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2010;148.700 km;Yarı Otomatik;Benzin;Hatchback/3;Gri (metalik);1390 cc;125 hp;Önden Çekiş;5,6 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+420.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2000;272.000 km;Otomatik;LPG & Benzin;Hatchback/5;Gri;1595 cc;101 hp;Önden Çekiş;8,6 lt;55 lt;-;-;Sahibinden
+830.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;266.000 km;Yarı Otomatik;Dizel;Hatchback/3;Beyaz;1598 cc;105 hp;Önden Çekiş;4,2 lt;55 lt;-;-;Sahibinden
+767.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;145.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+610.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Ambiente;2005;195.000 km;Otomatik;LPG & Benzin;Hatchback/5;Gri;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+775.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Attraction;2011;111.000 km;Düz;LPG & Benzin;Hatchback/5;Beyaz;1595 cc;102 hp;Önden Çekiş;6,9 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+1.280.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;71.500 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+859.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2015;130.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+629.750 TL;Audi;A3;A3 Sportback 1.6 Attraction;2008;250.200 km;Otomatik;LPG & Benzin;Hatchback/5;Beyaz;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+1.000.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2017;95.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+990.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2016;126.500 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.075.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2015;156.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+720.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2012;240.000 km;Yarı Otomatik;Dizel;Hatchback/3;Beyaz;1598 cc;105 hp;Önden Çekiş;3,8 lt;50 lt;-;-;Sahibinden
+1.120.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;220.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+949.750 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2014;124.397 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Yetkili Bayiden
+1.800.000 TL;Audi;A3;A3 Sedan 35 TFSI Sport;2021;59.000 km;Yarı Otomatik;Benzin;Sedan;Beyaz;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;-;Takasa Uygun;Galeriden
+720.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2012;230.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+1.580.000 TL;Audi;A3;A3 Sportback 30 TDI Sport;2019;34.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;116 hp;Önden Çekiş;4 lt;50 lt;-;-;Sahibinden
+1.450.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;94.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1401 - 1600 cm3;101 - 125 HP;Önden Çekiş;-;-;3 boyalı;Takasa Uygun Değil;Sahibinden
+2.500.000 TL;Audi;A3;A3 Sedan 35 TFSI Sport;2021;19.000 km;Otomatik;Benzin;Sedan;Sarı;-;-;-;-;-;Belirtilmemiş;-;Sahibinden
+1.325.000 TL;Audi;A3;A3 Sedan 35 TFSI Dynamic;2020;82.000 km;Yarı Otomatik;Benzin;Sedan;Beyaz;1498 cc;150 hp;Önden Çekiş;5,1 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+362.900 TL;Audi;A3;A3 Sportback 1.8 T Ambiente;1999;172.200 km;Düz;Benzin;Hatchback/5;Bordo;1781 cc;150 hp;Önden Çekiş;7,4 lt;55 lt;-;Takasa Uygun Değil;Galeriden
+885.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2011;126.400 km;Yarı Otomatik;Benzin;Hatchback/3;Kırmızı;1390 cc;125 hp;Önden Çekiş;5,6 lt;55 lt;-;Takasa Uygun Değil;Galeriden
+720.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambiente;2011;175.000 km;Yarı Otomatik;Benzin;Hatchback/3;Siyah;1390 cc;125 hp;Önden Çekiş;5,6 lt;55 lt;-;Takasa Uygun;Sahibinden
+905.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2016;156.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;-;Sahibinden
+1.065.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2013;142.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+628.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2005;147.500 km;Otomatik;LPG & Benzin;Hatchback/3;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+875.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2012;136.000 km;Otomatik;Dizel;Hatchback/5;-;-;-;-;-;-;3 boyalı;-;Sahibinden
+720.000 TL;Audi;A3;A3 Sportback 1.2 TFSI Attraction;2012;202.000 km;Düz;Benzin;Hatchback/5;Beyaz;1197 cc;105 hp;Önden Çekiş;5,5 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+1.088.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2013;157.000 km;Yarı Otomatik;Dizel;Hatchback/5;Kırmızı;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.100.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;150.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+725.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2010;182.500 km;Düz;LPG & Benzin;Hatchback/3;Siyah;1595 cc;102 hp;Önden Çekiş;6,8 lt;55 lt;-;Takasa Uygun;Sahibinden
+1.425.000 TL;Audi;A3;A3 Sportback 35 TFSI Dynamic;2020;28.000 km;Yarı Otomatik;Benzin;Hatchback/5;-;1498 cc;150 hp;Önden Çekiş;4,9 lt;50 lt;-;-;Sahibinden
+855.000 TL;Audi;A3;A3 Sportback 1.6 TDI Standart;2012;154.000 km;Otomatik;Dizel;Hatchback/3;Beyaz;1601 - 1800 cm3;151 - 175 HP;Önden Çekiş;-;-;1 değişen, 2 boyalı;Takasa Uygun Değil;Galeriden
+1.130.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;181.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+1.100.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2016;180.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+590.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2010;260.000 km;Yarı Otomatik;Benzin;Hatchback/3;Siyah;1390 cc;125 hp;Önden Çekiş;5,6 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+1.090.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2016;115.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.100.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2013;60.920 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+620.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2009;268.000 km;Yarı Otomatik;Benzin;Hatchback/3;Siyah;1390 cc;125 hp;Önden Çekiş;5,6 lt;55 lt;-;-;Sahibinden
+775.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;217.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;-;-;Sahibinden
+700.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2009;209.000 km;Yarı Otomatik;LPG & Benzin;Hatchback/5;Beyaz;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+1.300.000 TL;Audi;A3;A3 Sedan 1.0 TFSI Design Line;2017;125.000 km;Yarı Otomatik;Benzin;Sedan;Gri;999 cc;116 hp;Önden Çekiş;4,4 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.087.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;98.791 km;Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Galeriden
+1.410.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;45.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun Değil;Galeriden
+1.230.000 TL;Audi;A3;A3 Sportback 1.6 TDI Sport Line;2016;67.436 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.350.000 TL;Audi;A3;A3 Sedan 1.6 TDI S Line;2014;101.500 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+645.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2009;114.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1390 cc;125 hp;Önden Çekiş;5,7 lt;55 lt;-;Takasa Uygun Değil;Galeriden
+1.119.900 TL;Audi;A3;A3 Sportback 30 TFSI Dynamic;2019;67.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;-;Takasa Uygun;Galeriden
+750.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2010;200.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+905.000 TL;Audi;A3;A3 Sedan 1.6 TDI;2016;330.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1401 - 1600 cm3;101 - 125 HP;Önden Çekiş;-;-;7 boyalı;Takasa Uygun Değil;Sahibinden
+1.190.000 TL;Audi;A3;A3 Sedan 1.4 TFSI Ambition;2013;118.000 km;Yarı Otomatik;Benzin;Sedan;Mavi (metalik);1395 cc;140 hp;Önden Çekiş;4,7 lt;50 lt;-;Takasa Uygun;Sahibinden
+635.000 TL;Audi;A3;A3 Sportback 1.6 Ambition;2008;189.000 km;Düz;Benzin;Hatchback/3;Siyah;1595 cc;102 hp;Önden Çekiş;7 lt;55 lt;-;Takasa Uygun;Sahibinden
+950.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;165.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.120.000 TL;Audi;A3;A3 Sportback 1.6 TDI Dynamic;2018;64.000 km;Düz;Dizel;Hatchback/5;Beyaz;1598 cc;116 hp;Önden Çekiş;4 lt;50 lt;-;Takasa Uygun;Sahibinden
+730.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;260.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;-;-;Sahibinden
+810.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;202.000 km;Yarı Otomatik;Dizel;Hatchback/5;-;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;1 boyalı;-;Sahibinden
+875.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2013;168.800 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+898.880 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2013;228.228 km;Yarı Otomatik;Dizel;Sedan;Füme;-;-;Önden Çekiş;-;-;5 boyalı;-;Sahibinden
+600.000 TL;Audi;A3;A3 Sportback 1.6 FSI;2005;224.000 km;Düz;Benzin;Hatchback/5;Gri;1595 cc;115 hp;Önden Çekiş;6,5 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+1.040.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2016;141.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+650.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2011;285.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;-;Takasa Uygun;Sahibinden
+740.000 TL;Audi;A3;A3 Sportback 2.0 TFSI Ambiente;2007;210.000 km;Yarı Otomatik;LPG & Benzin;Hatchback/3;Siyah;1984 cc;200 hp;Önden Çekiş;7,8 lt;60 lt;-;Takasa Uygun;Sahibinden
+940.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;158.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.140.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2018;58.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+575.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2007;180.000 km;Otomatik;LPG & Benzin;Hatchback/3;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun;Sahibinden
+1.140.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2016;201.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.095.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2014;117.750 km;Yarı Otomatik;Dizel;Hatchback/5;Kırmızı;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.100.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2017;55.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;-;Takasa Uygun;Sahibinden
+975.000 TL;Audi;A3;A3 Sedan 1.6 TDI S Line;2015;189.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.190.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2015;115.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+999.999 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;115.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+780.000 TL;Audi;A3;A3 Sportback 1.4 TFSI;2009;248.000 km;Yarı Otomatik;LPG & Benzin;Hatchback/5;Siyah;1390 cc;125 hp;Önden Çekiş;6,5 lt;55 lt;-;-;Sahibinden
+1.050.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;210.000 km;Yarı Otomatik;Dizel;Hatchback/3;Beyaz;1598 cc;105 hp;Önden Çekiş;3,8 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+675.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2008;232.000 km;Düz;Benzin;Hatchback/5;Siyah;1390 cc;125 hp;Önden Çekiş;6,5 lt;55 lt;-;-;Sahibinden
+915.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2014;160.000 km;Yarı Otomatik;Dizel;Hatchback/5;Füme;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.125.000 TL;Audi;A3;A3 Sportback 1.6 TDI Sport Line;2016;180.000 km;Yarı Otomatik;Dizel;Hatchback/5;Mavi (metalik);1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+902.500 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2014;175.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+599.999 TL;Audi;A3;A3 Sportback 1.6 Sportback Ambition;2007;399.000 km;Otomatik;LPG & Benzin;Hatchback/5;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun;Sahibinden
+890.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2014;181.800 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+700.000 TL;Audi;A3;A3 Sportback 1.6 Ambition;2010;150.000 km;Yarı Otomatik;Benzin;Hatchback/3;Beyaz;1595 cc;102 hp;Önden Çekiş;6,7 lt;55 lt;-;-;Sahibinden
+949.750 TL;Audi;A3;A3 Sedan 1.6 TDI Ambiente;2014;191.500 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+570.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2006;206.000 km;Otomatik;LPG & Benzin;Hatchback/3;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;-;Sahibinden
+550.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2006;270.000 km;Otomatik;LPG & Benzin;Hatchback/5;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;-;Sahibinden
+750.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2011;168.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;1390 cc;125 hp;Önden Çekiş;5,7 lt;55 lt;-;-;Sahibinden
+950.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2014;122.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+743.000 TL;Audi;A3;A3 Sportback 1.2 TFSI Attraction;2012;181.500 km;Düz;Benzin;Hatchback/5;Siyah;1197 cc;105 hp;Önden Çekiş;5,5 lt;55 lt;-;-;Sahibinden
+925.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambition;2012;264.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;-;Takasa Uygun;Sahibinden
+760.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2011;184.000 km;Yarı Otomatik;Benzin;Hatchback/3;Beyaz;1390 cc;125 hp;Önden Çekiş;5,6 lt;55 lt;-;-;Sahibinden
+770.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;82.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+1.075.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2017;115.000 km;Yarı Otomatik;Benzin;Hatchback/5;Gri;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+345.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;2000;370.000 km;Düz;LPG & Benzin;Hatchback/5;Gri (Gümüş);1595 cc;101 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun;Sahibinden
+700.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Attraction;2009;140.000 km;Yarı Otomatik;Benzin;Hatchback/5;Gri (metalik);1390 cc;125 hp;Önden Çekiş;5,8 lt;55 lt;-;Takasa Uygun;Sahibinden
+905.000 TL;Audi;A3;A3 Sedan 1.6 TDI S Line;2014;259.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+700.000 TL;Audi;A3;A3 Sportback 1.6 Sportback Standart;2011;274.000 km;Düz;LPG & Benzin;Hatchback/5;Beyaz;1595 cc;102 hp;Önden Çekiş;7 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+650.000 TL;Audi;A3;A3 Sportback 1.4 TFSI;2008;137.000 km;Düz;Benzin;Hatchback/5;Siyah;1390 cc;125 hp;Önden Çekiş;6,5 lt;55 lt;-;Takasa Uygun;Sahibinden
+375.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;1999;215.000 km;Düz;Benzin;Hatchback/3;Sarı;1595 cc;101 hp;Önden Çekiş;7,6 lt;55 lt;-;-;Sahibinden
+715.000 TL;Audi;A3;A3 Sportback 1.8 TFSI Attraction;2009;127.500 km;Yarı Otomatik;Benzin;Hatchback/5;-;1798 cc;160 hp;Önden Çekiş;6,7 lt;55 lt;2 değişen, 10 boyalı;Takasa Uygun Değil;Sahibinden
+795.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2011;55.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+705.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2009;165.000 km;Düz;Benzin;Hatchback/5;Siyah;1390 cc;125 hp;Önden Çekiş;6 lt;55 lt;-;-;Sahibinden
+970.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2014;98.860 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.050.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2015;176.500 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+1.050.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2014;178.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.200.000 TL;Audi;A3;A3 Sportback 1.6 TDI Sport Line;2016;136.300 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;-;Takasa Uygun;Sahibinden
+1.000.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2015;125.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.275.000 TL;Audi;A3;A3 Sportback 1.6 TDI Dynamic;2017;58.750 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;110 hp;Önden Çekiş;3,8 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+950.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2014;148.000 km;Yarı Otomatik;Dizel;Hatchback/5;Gri (Gümüş);1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+820.000 TL;Audi;A3;A3 Sportback 1.6 TDI Ambiente;2013;261.000 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun;Sahibinden
+1.488.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2016;71.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+400.000 TL;Audi;A3;A3 Sportback 1.8 Ambiente;2000;345.000 km;Otomatik;LPG & Benzin;Hatchback/3;Gri;1781 cc;125 hp;Önden Çekiş;8,5 lt;55 lt;-;-;Sahibinden
+715.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;172.500 km;Yarı Otomatik;Dizel;Hatchback/3;Beyaz;1598 cc;105 hp;Önden Çekiş;3,8 lt;50 lt;-;-;Sahibinden
+375.000 TL;Audi;A3;A3 Sportback 1.6 Ambiente;1999;215.000 km;Düz;LPG & Benzin;Hatchback/3;Sarı;1595 cc;101 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+300.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;1999;297.000 km;Düz;LPG & Benzin;Hatchback/5;Mavi;1595 cc;101 hp;Önden Çekiş;7,6 lt;55 lt;-;-;Sahibinden
+950.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2016;160.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+575.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2006;248.000 km;Otomatik;LPG & Benzin;Hatchback/5;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+900.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2016;167.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;-;Sahibinden
+770.000 TL;Audi;A3;A3 Sportback 1.8 TFSI Ambition;2008;136.161 km;Yarı Otomatik;Benzin;-;Hatchback/3;1798 cc;160 hp;Önden Çekiş;6,7 lt;55 lt;-;-;Sahibinden
+1.190.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2013;137.000 km;Yarı Otomatik;Dizel;Sedan;Gri;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+965.000 TL;Audi;A3;A3 Sportback 1.0 TFSI Dynamic;2017;98.000 km;Yarı Otomatik;Benzin;Hatchback/5;Beyaz;999 cc;116 hp;Önden Çekiş;4,5 lt;50 lt;-;-;Sahibinden
+550.000 TL;Audi;A3;A3 Sportback 1.6 Ambition;2005;188.000 km;Otomatik;LPG & Benzin;Hatchback/3;Gri (Gümüş);-;-;-;-;-;Belirtilmemiş;-;Sahibinden
+1.850.000 TL;Audi;A3;A3 Sedan 1.6 TDI Sport Line;2018;89.000 km;Otomatik;Dizel;Sedan;Mavi (metalik);1401 - 1600 cm3;101 - 125 HP;Önden Çekiş;-;-;Tamamı orjinal;Takasa Uygun Değil;Sahibinden
+1.235.000 TL;Audi;A3;A3 Sedan 1.6 TDI Attraction;2016;106.000 km;Yarı Otomatik;Dizel;Sedan;-;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.095.000 TL;Audi;A3;A3 Sedan 1.6 TDI Dynamic;2016;145.000 km;Yarı Otomatik;Dizel;Sedan;Siyah;1598 cc;110 hp;Önden Çekiş;3,7 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+455.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2004;305.000 km;Düz;LPG & Benzin;Hatchback/3;Gri;1595 cc;102 hp;Önden Çekiş;6,8 lt;55 lt;-;Takasa Uygun;Sahibinden
+580.000 TL;Audi;A3;A3 Sportback 1.6 FSI;2006;283.000 km;Düz;LPG & Benzin;Hatchback/3;Beyaz;1595 cc;115 hp;Önden Çekiş;6,5 lt;55 lt;-;Takasa Uygun;Sahibinden
+1.050.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2014;1.780.000 km;Yarı Otomatik;Dizel;Hatchback/5;Siyah;1598 cc;105 hp;Önden Çekiş;3,9 lt;50 lt;-;-;Sahibinden
+1.150.000 TL;Audi;A3;A3 Sedan 1.6 TDI Ambition;2015;151.000 km;Yarı Otomatik;Dizel;Sedan;Beyaz;1598 cc;110 hp;Önden Çekiş;3,9 lt;50 lt;-;Takasa Uygun Değil;Sahibinden
+1.200.000 TL;Audi;A3;A3 Sedan 1.6 TDI Design Line;2018;135.725 km;Otomatik;Dizel;Sedan;Siyah;101 - 125 HP;-;Önden Çekiş;-;-;2 boyalı;-;Sahibinden
+750.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2010;182.000 km;Yarı Otomatik;LPG & Benzin;Hatchback/3;Beyaz;1595 cc;102 hp;Önden Çekiş;6,7 lt;55 lt;-;Takasa Uygun Değil;Sahibinden
+530.000 TL;Audi;A3;A3 Sportback 1.6 Attraction;2007;240.000 km;Otomatik;Benzin;Hatchback/3;Füme;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;-;Takasa Uygun;Sahibinden
+610.000 TL;Audi;A3;A3 Sportback 1.4 TFSI Ambition;2009;203.000 km;Düz;Benzin;Hatchback/3;-;1390 cc;125 hp;Önden Çekiş;5,9 lt;55 lt;9 boyalı;-;Sahibinden
+280.000 TL;Audi;A3;A3 Sportback 1.8 T Ambiente;1999;280.000 km;Düz;LPG & Benzin;Hatchback/5;Sarı;1781 cc;180 hp;Önden Çekiş;7,8 lt;55 lt;Belirtilmemiş;Takasa Uygun Değil;Sahibinden
+815.000 TL;Audi;A3;A3 Sportback 1.6 TDI Attraction;2012;133.500 km;Yarı Otomatik;Dizel;Hatchback/5;Beyaz;1598 cc;105 hp;Önden Çekiş;4,3 lt;55 lt;1 boyalı;-;Sahibinden
+505.000 TL;Audi;A3;A3 Sportback 1.6 Ambition;2004;247.000 km;Düz;LPG & Benzin;Hatchback/3;Siyah;1401 - 1600 cm3;101 - 125 HP;Önden Çekiş;Belirtilmemiş;-;-;Takasa Uygun;Sahibinden
+645.000 TL;Audi;A3;A3 Sportback 1.6 Standart;2008;231.000 km;Otomatik;LPG & Benzin;Hatchback/3;Siyah;1595 cc;102 hp;Önden Çekiş;7,6 lt;55 lt;Belirtilmemiş;Takasa Uygun Değil;Sahibinden
+1.520.000 TL;Audi;A3;A3 Sportback 35 TFSI Sport;2020;5.000 km;Otomatik;Benzin;Hatchback/5;Gri;-;-;-;-;-;Tamamı orjinal;Takasa Uygun Değil;Sahibinden
+490.000 TL;Audi;A3;A3 Sportback 1.6 FSI;2007;195.000 km;Düz;Benzin;Hatchback/3;Beyaz;1595 cc;115 hp;Önden Çekiş;6,5 lt;55 lt;2 değişen, 3 boyalı;-;Sahibinden
